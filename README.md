@@ -218,12 +218,6 @@ Through this project, I learned how to build an LLM-based conditional workflow u
 
 I also explored how LLMs can be used for sentiment classification, issue diagnosis, and automated customer response generation.
 
-## 🎥 Learning Resource
-
-This project was developed as part of my LangGraph learning journey.
-
-[CampusX – Conditional Workflows in LangGraph](https://youtu.be/I-dvZqTz-Wc?si=yoLy0DX0hZ55eMkx)
-
 ---
 
 **Built with Python, LangChain, LangGraph, and Hugging Face.**
